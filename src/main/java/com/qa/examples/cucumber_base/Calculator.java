@@ -27,11 +27,13 @@ public class Calculator {
 	
 	public double divide(double a, double b) {
 		// TODO: Implement
-		return 0.0d;
+		return a / b;
+//		return 0.0d;
 	}
 	
 	public double multiply(double a, double b) {
 		// TODO: Implement
-		return 0.0d;
+		return a * b;
+//		return 0.0d;
 	}
 }
